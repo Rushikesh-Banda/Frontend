@@ -1,0 +1,35 @@
+div{
+    width:400px;
+    margin: auto;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    text-align: center;
+    background-color: rgb(246, 246, 249);
+    padding: 30px;
+    border-radius: 10px;
+
+}
+
+body{
+    background-color: gray;
+}
+
+
+img{
+    width: 200px;
+    border-radius: 200%;
+    margin-bottom: 30px;
+    height: 200px;
+}
+
+h2{
+    background-color: darkblue;
+    border-radius: 5px;
+    color: white;
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+    
+
+
+}
