@@ -17,9 +17,9 @@ These mini-projects help in understanding frontend structure, styling, and respo
 
 ---
 
-# 🚀 Features
+# Features
 
-## ✅ Responsive Web Design
+## Responsive Web Design
 
 * Mobile-friendly layouts
 * Flexible UI structure
@@ -27,7 +27,7 @@ These mini-projects help in understanding frontend structure, styling, and respo
 
 ---
 
-## ✅ Profile Card Design
+## Profile Card Design
 
 * User profile card layout
 * Modern UI styling
@@ -35,7 +35,7 @@ These mini-projects help in understanding frontend structure, styling, and respo
 
 ---
 
-## ✅ Profile Page UI
+## Profile Page UI
 
 * Complete profile page structure
 * Section-based design
@@ -43,7 +43,7 @@ These mini-projects help in understanding frontend structure, styling, and respo
 
 ---
 
-## ✅ Responsive Layout Projects
+## Responsive Layout Projects
 
 * Responsive containers
 * Grid/Flexbox layouts
@@ -51,7 +51,7 @@ These mini-projects help in understanding frontend structure, styling, and respo
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```bash id="a2f6m0"
 Frontend/
@@ -69,7 +69,7 @@ Frontend/
 
 ---
 
-# 📘 Technologies Used
+# Technologies Used
 
 | Technology        | Purpose               |
 | ----------------- | --------------------- |
@@ -81,11 +81,11 @@ Frontend/
 
 ---
 
-# 📌 Important Frontend Concepts
+# Important Frontend Concepts
 
 ---
 
-# 🔹 HTML5
+# HTML5
 
 ## Definition
 
@@ -103,7 +103,7 @@ HTML (HyperText Markup Language) is used to create the structure of web pages.
 
 ---
 
-# 🔹 CSS3
+# CSS3
 
 ## Definition
 
@@ -118,7 +118,7 @@ CSS (Cascading Style Sheets) is used to style HTML elements.
 
 ---
 
-# 🔹 Responsive Web Design
+# Responsive Web Design
 
 ## Definition
 
@@ -132,7 +132,7 @@ Responsive design makes webpages adapt to different screen sizes.
 
 ---
 
-# 🔹 Flexbox
+# Flexbox
 
 ## Definition
 
@@ -150,7 +150,7 @@ Flexbox is a CSS layout system used for aligning items.
 
 ---
 
-# 🔹 Media Queries
+# Media Queries
 
 ## Definition
 
@@ -168,11 +168,11 @@ Media queries apply different styles for different screen sizes.
 
 ---
 
-# 📄 Project Descriptions
+# Project Descriptions
 
 ---
 
-# 📄 Profile Card Layout
+# Profile Card Layout
 
 ## Purpose
 
@@ -194,7 +194,7 @@ Creates a modern profile card UI.
 
 ---
 
-# 📄 Profile Page Demo
+# Profile Page Demo
 
 ## Purpose
 
@@ -209,7 +209,7 @@ Demonstrates a complete user profile page.
 
 ---
 
-# 📄 Responsive Layout1
+# Responsive Layout1
 
 ## Purpose
 
@@ -223,7 +223,7 @@ Demonstrates responsive webpage structure.
 
 ---
 
-# 📄 Responsive Layout2
+# Responsive Layout2
 
 ## Purpose
 
@@ -237,7 +237,7 @@ Another responsive design example with improved layout handling.
 
 ---
 
-# 📄 Asserts Folder
+# Asserts Folder
 
 ## Purpose
 
@@ -250,7 +250,7 @@ Stores static assets like:
 
 ---
 
-# 📌 Common CSS Concepts Used
+# Common CSS Concepts Used
 
 | Concept       | Purpose               |
 | ------------- | --------------------- |
@@ -263,7 +263,7 @@ Stores static assets like:
 
 ---
 
-# 📌 Frontend Workflow
+# Frontend Workflow
 
 ```text id="s3d8k0"
 HTML Structure
@@ -279,7 +279,7 @@ User Interface Display
 
 ---
 
-# 📌 Responsive Design Principles
+# Responsive Design Principles
 
 | Principle       | Description                  |
 | --------------- | ---------------------------- |
@@ -290,7 +290,7 @@ User Interface Display
 
 ---
 
-# ▶ How to Run the Project
+# How to Run the Project
 
 ---
 
@@ -325,7 +325,7 @@ index.html
 
 ---
 
-# 📚 Learning Outcomes
+# Learning Outcomes
 
 After completing these projects, the following concepts are understood:
 
@@ -339,7 +339,7 @@ After completing these projects, the following concepts are understood:
 
 ---
 
-# 🛠 Tools Used
+# Tools Used
 
 * VS Code
 * HTML5
@@ -349,7 +349,7 @@ After completing these projects, the following concepts are understood:
 
 ---
 
-# 📌 Real-World Use Cases
+# Real-World Use Cases
 
 | Feature            | Real-World Example       |
 | ------------------ | ------------------------ |
@@ -360,6 +360,6 @@ After completing these projects, the following concepts are understood:
 
 ---
 
-# 📌 Conclusion
+# Conclusion
 
 This repository demonstrates modern frontend web development concepts using HTML5 and CSS3. The projects focus on responsive UI design, layout structuring, and reusable frontend styling techniques commonly used in real-world web applications.
